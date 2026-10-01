@@ -8,17 +8,6 @@ This is a minimal static website for Group F.
 - `styles.css` — styling
 - `script.js` — small entrance animation
 
-## Deploy to Vercel
-
-1. Push this folder to a GitHub repository.
-2. Go to https://vercel.com and sign in.
-3. Click "Add New Project".
-4. Import the GitHub repository.
-5. Keep the default settings for a static site.
-6. Click "Deploy".
-
-Vercel will automatically detect the site and publish it.
-
 ## Preview locally
 
 Open the folder in a browser, or run:
@@ -28,3 +17,7 @@ python -m http.server 8000
 ```
 
 Then visit http://localhost:8000
+
+#### Web Hosted Link
+
+https://eecs4314-group4-team.vercel.app/
