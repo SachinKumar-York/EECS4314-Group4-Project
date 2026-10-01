@@ -1,6 +1,6 @@
 # EECS 4314 Group Project
 
-This is a minimal static website for Group 4.
+This is a minimal static website for Group F.
 
 ## Files
 
