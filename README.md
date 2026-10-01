@@ -17,3 +17,7 @@ python -m http.server 8000
 ```
 
 Then visit http://localhost:8000
+
+#### Web Hosted Link
+
+https://eecs4314-group4-team.vercel.app/
