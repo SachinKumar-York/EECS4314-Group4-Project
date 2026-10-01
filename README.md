@@ -3,11 +3,13 @@
 This is a minimal static website for Group 4.
 
 ## Files
+
 - `index.html` — main page
 - `styles.css` — styling
 - `script.js` — small entrance animation
 
 ## Deploy to Vercel
+
 1. Push this folder to a GitHub repository.
 2. Go to https://vercel.com and sign in.
 3. Click "Add New Project".
@@ -18,6 +20,7 @@ This is a minimal static website for Group 4.
 Vercel will automatically detect the site and publish it.
 
 ## Preview locally
+
 Open the folder in a browser, or run:
 
 ```bash
